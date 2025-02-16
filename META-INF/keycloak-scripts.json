@@ -1,0 +1,14 @@
+{
+    "policies":[
+        {
+            "name": "OnlyOwnerPolicy",
+            "description": "compared resource.ownerId with user.id",
+            "fileName": "owner-policy.js"
+        },
+        {
+            "name": "SameGroupPolicy",
+            "description": "compared resource.groupId with user.groupId",
+            "fileName": "same-group-policy.js"
+        }
+    ]
+}
