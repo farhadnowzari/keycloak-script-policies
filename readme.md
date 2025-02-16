@@ -5,7 +5,7 @@ This repository contains following scripts:
 * owner-policy
 * same-group-policy
 
-These two scripts are related to a Youtube video: [Link](#)
+These two scripts are related to a Youtube video: [Link](https://youtu.be/E5g50CVRGv8)
 
 ## Deploy to kubernetes
 
